@@ -1,6 +1,8 @@
 # Heatwaves
 Python notebooks to accompany the paper 'Non-survivable heat stress conditions are already occurring'
 
+Survivable days uses the model in Vanos et al. to calculate number of survivable days given temperature and humidity data.
+
 Compound age and heat is used to make the maps showing the bivariate plots combining heat risk and population density.
 
 US_Case_Studies is used to make the scatterplot and timeseries plots for each of the case studies. 
